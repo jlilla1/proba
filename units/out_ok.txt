@@ -1,9 +1,5 @@
 1. kor
-
 RunnerM  666 0
-
 DwayneTHERockJohnson 500000 0
-
 RunnerM  0 0
-
 DwayneTHERockJohnson WINS. Remaining Hp: 885781 6
