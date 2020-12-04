@@ -1,3 +1,71 @@
+1. kor
+
+RunnerM  666 0
+
+DwayneTHERockJohnson 500000 0
+
+RunnerM  0 0
+
 DwayneTHERockJohnson WINS. Remaining Hp: 885781 6
+1. kor
+
+Felician  2000 0
+
+DwayneTHERockJohnson 500000 0
+
+Felician  1089 0
+
+DwayneTHERockJohnson 1178847 9
+
+2. kor
+
+Felician  2200 1
+
+DwayneTHERockJohnson 1178847 9
+
+Felician  54 1
+
+3. kor
+
+Felician  54 1
+
+DwayneTHERockJohnson 8724715 30
+
+Felician  0 1
+
 DwayneTHERockJohnson WINS. Remaining Hp: 71021590 52
+1. kor
+
+RunnerM  666 0
+
+Felician 2000 0
+
+RunnerM  538 0
+
+Felician 1201 1
+
+2. kor
+
+RunnerM  1572 9
+
+Felician 1201 1
+
+RunnerM  1431 9
+
+3. kor
+
+RunnerM  1431 9
+
+Felician 2420 2
+
+Felician 64 2
+
+4. kor
+
+RunnerM  15479 33
+
+Felician 64 2
+
+Felician 0 2
+
 RunnerM WINS. Remaining Hp: 152464 57
