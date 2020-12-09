@@ -17,25 +17,25 @@ Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egym�
 
 | Feladat | Merge ideje a határidóhöz (nap) | Change request körök | Reviewer | 
 | ------- | ------------------------------- | -------------------- | -------- |
-| Feladat 1 | -2 | 0 | @oliverosz | 
-| Feladat 2 | +2 | 1 | @wajzy |
-| jsonparser | ... | ... | @wajzy |
-| levelup | ... | ... | @oliverosz |
-| attackspeed | ... | ... | @vizvezetek |
-| documentation | ... | ... | @otherteam / @never |
-| unittest | ... | ... | @otherteam / @gonna, @let |
-| makefile | ... | ... | @hegyhati |
-| refactor | ... | ... | @hegyhati |
-| docker | ... | ... | @hegyhati |
-| jsonpimp | Merge: 11.12 | ... | @otherteam / @you, @down |
-| map | Merge: 11.13 | ... | @otherteam / @never, @gonna |
-| game | Merge: mm.dd | ... | @otherteam / @run, @arond |
-| defense | Merge: mm.dd | ... | @otherteam / @and, @desert |
-| damage | Merge: mm.dd | ... | @otherteam / @you  |
-| markedmap | Merge: mm.dd | ... | @otherteam / @otherguy1,otherguy2 |
-| preparedgame | nem készült el | - | -
-| light radius | Merge: mm.dd | ... | @otherteam / @otherguy1,otherguy2 |
-| rendering | Merge: mm.dd | ... | @otherteam / @otherguy1,otherguy2 |
+| Feladat 1 | -2 | 0 | @hegyhati | 
+| Feladat 2 | +2 | 1 | @hegyhati |
+| jsonparser | ... | ... | @oliverosz / @hegyhati |
+| levelup | ... | ... | - |
+| attackspeed | ... | ... | - |
+| documentation | ... | ... | - |
+| unittest | ... | ... | - |
+| makefile | ... | ... | - |
+| refactor | ... | ... | - |
+| docker | ... | ... | - |
+| jsonpimp | Merge: 11.12 | - | - |
+| map | nem készült el | - | - |
+| game | nem készült el | - | - |
+| defense | nem készült el | - | - |
+| damage | nem készült el | - | -  |
+| markedmap | nem készült el | - | - |
+| preparedgame | nem készült el | - | - |
+| light radius | nem készült el | - | - |
+| rendering | nem készült el | - | - |
 
 # Unit tesztek
 
