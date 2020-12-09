@@ -19,15 +19,15 @@ Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egym�
 | ------- | ------------------------------- | -------------------- | -------- |
 | Feladat 1 | 0 | 6 | @hegyhati | 
 | Feladat 2 | 0 | 1 | @oliverosz / @hegyhati |
-| jsonparser | ... | ... | - |
-| levelup | ... | ... | - |
-| attackspeed | ... | ... | - |
-| documentation | ... | ... | - |
-| unittest | ... | ... | - |
-| makefile | ... | ... | - |
-| refactor | ... | ... | - |
-| docker | ... | ... | - |
-| jsonpimp | Merge: 11.12 | - | - |
+| jsonparser | ... | - | - |
+| levelup | ... | - | - |
+| attackspeed | 37 | - | - |
+| documentation | 41 | - | - |
+| unittest | 32 | - | - |
+| makefile | 32 | - | - |
+| refactor | 32 | - | - |
+| docker | Merge: 12.09 | - | - |
+| jsonpimp | 12.09 | - | - |
 | map | nem készült el | - | - |
 | game | nem készült el | - | - |
 | defense | nem készült el | - | - |
