@@ -2,10 +2,11 @@
 
 | Név | Github azonosito  | Javasolt relatív érdemjegy | Becsült óra | Indoklás  | 
 | --- | ---- | --- | ------------------ | --------- |
-| Foo Bar | @nevergo | 0 | 15-20 | Szépen csinálta a dolgát. |
-| Leyh Zee | @nagiveyo | -2 | <10 | Sokszor Sta Hanovnak kellett megcsinálnia helyette a dolgokat. |
-| Sta Hanov | @uup | +1 | 40-50 | Mindent megcsinált, és amikor Leyh Zee helyett be kellett ugrani, elvállalta a feladadokat, valamint a másik csapatnak a bírálatok zömét Ő csinálta |
+| Pap Martin Felicián | @PapFe | 0 | 30-35 | Szépen csinálta a dolgát, jó csapatvezetőnek bizonyult, jól összefogta a dolgokat. |
+| Kun Viktor | @KViktor58 | 0 | 30-35 | Szépen dolgozott, sokat foglalkozott a teszteléssel és a docker-rel. |
+| Jánoki Lilla | @jlilla1 | 0 | 30-35 | Jól dolgozott, elkészítette a dokumentációt és foglalkozott az adminisztrációval. |
 
+Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egymást segíteni. Összeséggében mindenki jól kivette a részét a munkából.
 
 # Videók
 
