@@ -17,9 +17,9 @@ Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egym�
 
 | Feladat | Merge ideje a határidóhöz (nap) | Change request körök | Reviewer | 
 | ------- | ------------------------------- | -------------------- | -------- |
-| Feladat 1 | -2 | 0 | @hegyhati | 
-| Feladat 2 | +2 | 1 | @hegyhati |
-| jsonparser | ... | ... | @oliverosz / @hegyhati |
+| Feladat 1 | 0 | 6 | @hegyhati | 
+| Feladat 2 | 0 | 1 | @oliverosz / @hegyhati |
+| jsonparser | ... | ... | - |
 | levelup | ... | ... | - |
 | attackspeed | ... | ... | - |
 | documentation | ... | ... | - |
