@@ -26,8 +26,8 @@ Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egym�
 | unittest | 32 | - | - |
 | makefile | 32 | - | - |
 | refactor | 32 | - | - |
-| docker | Merge: 12.09 | - | - |
-| jsonpimp | 12.09 | - | - |
+| docker | Merge: 12.10 | - | - |
+| jsonpimp | 12.10 | - | - |
 | map | nem készült el | - | - |
 | game | nem készült el | - | - |
 | defense | nem készült el | - | - |
@@ -49,9 +49,9 @@ Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egym�
 
 | Teljesen dokumentált osztályok | Részben dokumentált osztályok | Nem dokumentált osztályok |
 | --- | --- | --- | 
-| `Unit` | `Game` | `JSON` | 
-| `Hero` | ... | ... |  
-| ... |
+| `Character` | `JSON` | 
+| `Hero` |  
+| `Monster` |
 
 
 # Mindenféle számok
