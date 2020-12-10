@@ -8,6 +8,8 @@
 
 Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egymást segíteni. Összeséggében mindenki jól kivette a részét a munkából.
 
+Mivel a CLOSE után nem tudtunk hozzáférni a korábbi repository-hoz, így ezen az új repo-n folytattuk a munkát. Később észrevettük, hogy már tudnánk feltölteni a korábbira is, ám akkor már sokat vesztettünk volna vele, így itt fejeztük be a feladatot.
+
 # Videók
 
  - [Gameplay](/videos/gameplay.mp4)
@@ -19,8 +21,8 @@ Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egym�
 | ------- | ------------------------------- | -------------------- | -------- |
 | Feladat 1 | 0 | 6 | @hegyhati | 
 | Feladat 2 | 0 | 1 | @oliverosz / @hegyhati |
-| jsonparser | ... | - | - |
-| levelup | ... | - | - |
+| jsonparser | 41 | - | - |
+| levelup | 41 | - | - |
 | attackspeed | 37 | - | - |
 | documentation | 41 | - | - |
 | unittest | 32 | - | - |
@@ -41,9 +43,10 @@ Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egym�
 
 | Osztály | Publikus metódusok száma | Unit tesztelt metódusok száma | Unit tesztek száma |
 | --- | --- | --- | --- |
-| `Unit` | 4 | 2 | 8 |
-| `Hero` | 5 | 0 | 0 | 
-| ... |
+| `Character` | 8 | 5 | 5 |
+| `Hero` | 7 | 4 | 5 | 
+| `Monster` | 3 | 4 | 5 |
+| `JSON` | 9 | 2 | 2 |
 
 # Kód dokumentáció
 
@@ -56,14 +59,16 @@ Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egym�
 
 # Mindenféle számok
 
- - Összes cpp kódsor :
- - Egyéb kódsor (make,doxyfile,shellscript, ...) :
+ - Összes cpp kódsor : 853
+ - Egyéb kódsor (make,doxyfile,shellscript, ...) : 124 (+doxyconf 2580)
  - cppcheck
    - warning :
    - style :
    - performance :
    - unusedFunction : 
    - missingInclude : 
+   
+json: 47
  
 # Implicit megtanult dolgok
 Olyanok, amik nem a tárgy anyaga, de muszáj/hasznos volt elsajátítani:
@@ -78,5 +83,6 @@ Melyik részt találtátok a leghasznosabbnak, miért. Használtátok-e az itt m
 Ha szívesebben írnátok meg anoním módon, OHV-nál várom.
 
 # Üzenet a jövőbe (optional)
+Úgy láttuk, hogy komoly gondot okozott az, hogy a csapatban ketten (ugye jól tudom?) is voltunk, akik még nem teljesítették az OOP tárgyat. Tudjuk, hogy nem ti döntötök az előkövetelményről, mégis fontosnak tartottuk jelezni, hogy sajnos ez nagyban hátráltatta a munkát, érdemes lehet az elkövetkezőkben foglalkozni azzal, hogy ez a tárgy megjelenjen, mint előkövetelmény. (majd szebben megfogalmazzuk)
 
 Így, hogy túlvagytok rajta, mi az, aminek örültetek volna, ha első héten elmondom, avagy: jövőre mit lenne jó, ha elmondanék majd?
