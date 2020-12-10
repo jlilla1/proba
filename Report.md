@@ -3,10 +3,10 @@
 | Név | Github azonosito  | Javasolt relatív érdemjegy | Becsült óra | Indoklás  | 
 | --- | ---- | --- | ------------------ | --------- |
 | Pap Martin Felicián | @PapFe | 0 | 30-35 | Szépen csinálta a dolgát, jó csapatvezetőnek bizonyult, jól összefogta a dolgokat. |
-| Kun Viktor | @KViktor58 | 0 | 30-35 | Szépen dolgozott, sokat foglalkozott a teszteléssel és a docker-rel. |
+| Kun Viktor | @KViktor58 | 0 | 30-35 | Szépen dolgozott, sok energiát fordított a tesztelésre és a docker-re. |
 | Jánoki Lilla | @jlilla1 | 0 | 30-35 | Jól dolgozott, elkészítette a dokumentációt és foglalkozott az adminisztrációval. |
 
-Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egymást segíteni. Összeséggében mindenki jól kivette a részét a munkából. Sok esetben nem arányos a végezz munka azzal, ami a GitHub History-ban látható, mivel gyakran konferenciabeszélgetésben dolgozutnk közösen a feladatokon, így ez elsőre megtévesztő lehet.
+Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egymást segíteni. Összeséggében mindenki jól kivette a részét a munkából. Sok esetben nem arányos az egyes tagok által végzett munka azzal, ami a GitHub History-ban látható, mivel gyakran konferenciabeszélgetésben dolgozutnk közösen a feladatokon, így ez elsőre megtévesztő lehet.
 
 Mivel a CLOSE után nem tudtunk hozzáférni a korábbi repository-hoz, így ezen az új repo-n folytattuk a munkát. Később észrevettük, hogy már tudnánk feltölteni a korábbira is, ám akkor már sokat vesztettünk volna vele, így itt fejeztük be a feladatot.
 
@@ -60,29 +60,33 @@ Mivel a CLOSE után nem tudtunk hozzáférni a korábbi repository-hoz, így eze
 # Mindenféle számok
 
  - Összes cpp kódsor : 853
- - Egyéb kódsor (make,doxyfile,shellscript, ...) : 124 (+doxyconf 2580)
+ - Egyéb kódsor (makefile, dockerfile, yml, json, shellscript, CMakeLists) : 171 + 2580 (doxyconf)
  - cppcheck
-   - warning :
-   - style :
-   - performance :
+   - warning : 
+   - style : 
+   - performance : 
    - unusedFunction : 
    - missingInclude : 
    
-json: 47
  
 # Implicit megtanult dolgok
 Olyanok, amik nem a tárgy anyaga, de muszáj/hasznos volt elsajátítani:
- - alapvető shell/python scripting
- - `std::variant`
- - ...
+ - alapvető shell scripting
+ - forráskódok használata, azok átalakítása
+ - c++ gyakorlatban, gyakorlatiasabb használat elsajátítása
+ - team management
+ - csapatban kódolni
+ - kódkommentezés, csapatmunka miatt szükséges volt
+ - lényegretörő kommunikáció
+ - project management
+ - magasabb szintű felelősségvállalás, kölcsönös bizalom
+ - gyakorlatiasabb szemlélet az informaikai projektek tekintetében
+ 
 
 # Feedback (optional)
  
-Melyik részt találtátok a leghasznosabbnak, miért. Használtátok-e az itt megszerzett dolgokat esetleg közben máskor. Volt-e olyan, amit hiányoltatok a tárgyból. Utólag visszagondolva is jó volt-e az online videósdi?
-
-Ha szívesebben írnátok meg anoním módon, OHV-nál várom.
+Tetszett nekünk, hogy a tárgy gyakorlatias volt, volt köze a való életben látható szituációkhoz. Tisztában vagyunk vele, hogy a magas létszám valamint, az egyetemi oktatás működése miatt nincs kapacitás arra, hogy minden egyes tanulóval külön-külön lehessen foglalkozni, de az CLOSE-ok esetén lehet, hogy kedvezőbb lenne fordított logikával dolgozni, hogy azok kaphassanak támogatást, akiknek nagyobb szükségük van arra, akik pedig ügyesebbek, tapasztaltabbak önállóan dolgozhassanak.
 
 # Üzenet a jövőbe (optional)
-Úgy láttuk, hogy komoly gondot okozott az, hogy a csapatban ketten (ugye jól tudom?) is voltunk, akik még nem teljesítették az OOP tárgyat. Tudjuk, hogy nem ti döntötök az előkövetelményről, mégis fontosnak tartottuk jelezni, hogy sajnos ez nagyban hátráltatta a munkát, érdemes lehet az elkövetkezőkben foglalkozni azzal, hogy ez a tárgy megjelenjen, mint előkövetelmény. (majd szebben megfogalmazzuk)
 
-Így, hogy túlvagytok rajta, mi az, aminek örültetek volna, ha első héten elmondom, avagy: jövőre mit lenne jó, ha elmondanék majd?
+Úgy láttuk, hogy komoly gondot okozott az, hogy a csapat két tagja sem teljesítette még az OOP tárgyat, így nem csak az új eszközök megismerésére kellett koncentrálnunk, hanem a programozásbeli lemaradásokkal is foglalkoznunk kellett. Tudjuk, hogy nem ti döntötök az előkövetelményekről, mégis fontosnak tartottuk jelezni, hogy sajnos ez nagyban hátráltatta a munkát és nagyban nehezítette, hogy a tárgy tényleges fókuszában lévő technológiákat megértsük, hiszen a másik tárgy követelményeit is meg kellett ugranunk. Érdemes lehet az elkövetkezőkben foglalkozni azzal, hogy ez a tárgy szerepeljen, mint előkövetelmény. 
