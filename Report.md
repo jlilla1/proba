@@ -6,7 +6,7 @@
 | Kun Viktor | @KViktor58 | 0 | 30-35 | Szépen dolgozott, sokat foglalkozott a teszteléssel és a docker-rel. |
 | Jánoki Lilla | @jlilla1 | 0 | 30-35 | Jól dolgozott, elkészítette a dokumentációt és foglalkozott az adminisztrációval. |
 
-Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egymást segíteni. Összeséggében mindenki jól kivette a részét a munkából.
+Mindenkivel jól lehetett együtt dolgozni, ha valamiben elakadtunk tudtuk egymást segíteni. Összeséggében mindenki jól kivette a részét a munkából. Sok esetben nem arányos a végezz munka azzal, ami a GitHub History-ban látható, mivel gyakran konferenciabeszélgetésben dolgozutnk közösen a feladatokon, így ez elsőre megtévesztő lehet.
 
 Mivel a CLOSE után nem tudtunk hozzáférni a korábbi repository-hoz, így ezen az új repo-n folytattuk a munkát. Később észrevettük, hogy már tudnánk feltölteni a korábbira is, ám akkor már sokat vesztettünk volna vele, így itt fejeztük be a feladatot.
 
